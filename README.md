@@ -10,6 +10,11 @@ BubbleGenerator is a lightweight interactive game built with HTML, CSS, and Java
 - Real-time score counter
 - Collision detection to prevent bubbles from overlapping
 
+## Live Demo
+
+You can play the game directly in your browser here:  
+[https://judi10.github.io/BubbleGenerator/](https://judi10.github.io/BubbleGenerator/)
+
 ## Technologies Used
 
 - HTML5
